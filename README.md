@@ -909,7 +909,7 @@ For more detail, configure a new [Jenkins log recorder](https://wiki.jenkins-ci.
 
 To inspect the json messages sent back and forth to the Kubernetes API server you can configure
 a new [Jenkins log recorder](https://wiki.jenkins-ci.org/display/JENKINS/Logging) for `okhttp3`
-at `DEBUG` level.
+at `FINE` level.
 
 ## Deleting pods in bad state
 
